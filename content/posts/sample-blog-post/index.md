@@ -3,9 +3,16 @@ title: 'Sample Blog Post'
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam. Fusce pellentesque faucibus lorem at'
 date: '2022-08-29'
 featuredImg: /img/covers/christin-hume-Hcfwew744z4-unsplash.jpg
+cover: "https://unsplash.it/400/300/?random?BoldMage"
 authorName: 'Extension Team'
 authorAvatar: '/img/avatars/avatar-1.jpg'
-categories: ["React"]
+categories: 
+    - Tech
+    - React
+tags:
+    - programming
+    - stuff
+    - other
 ---
 
 This is the leading paragraph. A great place to introduce the blog topic and present a reason to the reader as to why they should continue through to the end.

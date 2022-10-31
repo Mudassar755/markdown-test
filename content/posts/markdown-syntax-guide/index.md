@@ -3,9 +3,16 @@ title: 'Markdown Syntax Guide'
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam. Fusce pellentesque faucibus lorem at'
 date: '2022-08-27'
 featuredImg: /img/covers/cover-7.jpg
+cover: "https://unsplash.it/400/300/?random?BoldMage"
 authorName: 'Mudassar'
 authorAvatar: '/img/avatars/avatar-3.jpg'
-categories: ["GatsbyJS", "React"]
+categories: 
+    - Tech
+    - React
+tags:
+    - programming
+    - stuff
+    - other
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam. Fusce pellentesque faucibus lorem at viverra. Integer at feugiat odio. In placerat euismod risus proin.

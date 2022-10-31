@@ -3,9 +3,16 @@ title: "Why Is Content Marketing Important?"
 description: "Content marketing provides several advantages for businesses to thrive in the digital world, but it's vital to know what makes content marketing effective."
 date: "2022-09-03"
 featuredImg: "/img/covers/cover-7.jpg"
+cover: "https://unsplash.it/400/300/?random?BoldMage"
 authorName: "Mateo"
 authorAvatar: "/img/avatars/avatar-2.jpg"
-categories: ["Content Marketing"]
+categories: 
+    - Tech
+    - React
+tags:
+    - programming
+    - stuff
+    - other
 ---
 
 Businesses have long known that effective marketing is the key to attracting more customers. Over the years, online marketing has become one of the most popular and efficient ways to reach potential and current customers.

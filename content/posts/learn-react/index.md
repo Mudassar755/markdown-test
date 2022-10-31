@@ -3,9 +3,16 @@ title: 'Learn React'
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam. Fusce pellentesque faucibus lorem at'
 date: '2022-08-25'
 featuredImg: /img/covers/cover-5.jpg
+cover: "https://unsplash.it/400/300/?random?BoldMage"
 authorName: 'Extension Team'
 authorAvatar: '/img/avatars/avatar-5.jpg'
-categories: ["GatsbyJS", "React", "Technology"]
+categories: 
+    - Tech
+    - React
+tags:
+    - programming
+    - stuff
+    - other
 ---
 
 ## Table of Contents

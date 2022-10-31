@@ -3,9 +3,16 @@ title: 'Remote Work is the Future, but Should You Go Remote?'
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam. Fusce pellentesque faucibus lorem at'
 date: '2022-08-28'
 featuredImg: /img/covers/cover-8.jpg
+cover: "https://unsplash.it/400/300/?random?BoldMage"
 authorName: 'Mudassar'
 authorAvatar: '/img/avatars/avatar-2.jpg'
-categories: ["GatsbyJS", "React", "NextJs"]
+categories: 
+    - Tech
+    - React
+tags:
+    - programming
+    - stuff
+    - other
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec condimentum quam. Fusce pellentesque faucibus lorem at viverra. Integer at feugiat odio. In placerat euismod risus proin.
